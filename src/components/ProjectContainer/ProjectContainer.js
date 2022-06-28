@@ -9,7 +9,7 @@ const ProjectContainer = ({ project }) => (
     <br />
     <div>
       <a rel="noreferrer" href={project.livePreview} target="_blank">
-        <div data-tilt class="thumbnail rounded js-tilt">
+        <div>
           <img alt="Project Image" src={project.image} height="150px" width="250px" />
         </div>
       </a>
