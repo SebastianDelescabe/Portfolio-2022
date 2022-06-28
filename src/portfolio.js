@@ -52,7 +52,7 @@ const projects = [
     livePreview: 'https://henropoly.vercel.app/',
   },
   {
-    name: 'CRUD animals',
+    name: 'Animal Management',
     image: project8,
     description: [
       'Pagina web para el control de animales desde una tabla. Se pueden agregar, editar, buscar y elimnar los animales de acuerdo a lo que se necesite',
@@ -60,8 +60,8 @@ const projects = [
       'El backend se conecta con una base de datos con sus respectivos modelos y rutas'
     ],
     stack: ['React', 'JavaScript', 'CSS', 'Node', 'MongoDB', 'Express'],
-    sourceCode: 'https://github.com/SebastianDelescabe/scoutProject',
-    livePreview: 'https://scoutelectronic-demo.netlify.app/',
+    sourceCode: 'https://github.com/SebastianDelescabe/Animal_management',
+    livePreview: 'https://github.com/SebastianDelescabe/Animal_management',
   },
   {
     name: 'Toyota App',
