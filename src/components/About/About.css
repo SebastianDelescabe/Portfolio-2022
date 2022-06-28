@@ -33,7 +33,7 @@
 .about__description {
   display: flex;
   text-align: start;
-  padding: 2rem;
+  padding: 2rem 0rem;
 }
 
 .about__description img {
@@ -67,6 +67,6 @@
     margin-top: 2em;
   }
   .about__description-image img {
-    width: 200px;
+    width: 250px;
   }
 }
